@@ -1,0 +1,6 @@
+{
+  "operationNode":"",
+  "bootstrap.servers": "",
+  "sslConfigFile": "/var/kafka-ssl/kafka-access/client_security.properties",
+  "schema.registry.url": ""
+}
