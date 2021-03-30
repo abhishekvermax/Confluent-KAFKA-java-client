@@ -1,6 +1,6 @@
 Production based Confluent KAFKA client manager for consumer, admin and other stuffs using single fat JAR.
 
-# KAFKA-java-client
+# Confluent Kafka Admin and Consumer
 Java based management project to handle REST Api and KAFKA configs
 
 Project Structure:
