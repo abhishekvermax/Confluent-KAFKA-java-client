@@ -63,7 +63,7 @@ Project Structure:
                         └── management
 ```
 
-![plot](https://github.developer.allianz.io/RA-Kafka-Service/KAFKA-java-client/blob/master/kafka-java-client.jpg)
+![plot](https://github.com/abhishekvermax/Confluent-KAFKA-java-client/blob/master/kafka-java-client.jpg)
 
 
 ### List All Topics:
